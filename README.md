@@ -4,8 +4,8 @@ Con el fin de trabajar en mi logica de programacion decidi crear un codigo compl
 - Descripcion: Este programa en Python permite convertir un número de una base cualquiera M a otra base N, donde ambas bases están en el rango de 2 a 16.
 Además, realiza dos operaciones extra:
 
-Convierte el número a binario.
-Interpreta ese binario como un mensaje en ASCII.
+- Convierte el número a binario.
+- Interpreta ese binario como un mensaje en ASCII.
 
 📌 ¿Qué hace el programa?
 Toma como entrada:
