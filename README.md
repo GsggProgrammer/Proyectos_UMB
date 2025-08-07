@@ -1,7 +1,7 @@
 Con el fin de trabajar en mi logica de programacion decidi crear un codigo complejo en el que fuera necesario el uso de funciones pero forzandome a no hacer uso de las mismas
  
-Nombre Del Programa: Conversor entre Bases con Representación en ASCII
-Descripcion: Este programa en Python permite convertir un número de una base cualquiera M a otra base N, donde ambas bases están en el rango de 2 a 16.
+- Nombre Del Programa: Conversor entre Bases con Representación en ASCII
+- Descripcion: Este programa en Python permite convertir un número de una base cualquiera M a otra base N, donde ambas bases están en el rango de 2 a 16.
 Además, realiza dos operaciones extra:
 
 - Convierte el número a binario.
