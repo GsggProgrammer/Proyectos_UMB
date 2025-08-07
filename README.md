@@ -5,7 +5,7 @@ Con el fin de trabajar en mi logica de programacion decidi crear un codigo compl
 Además, realiza dos operaciones extra:
 
 Convierte el número a binario.
-- Interpreta ese binario como un mensaje en ASCII.
+Interpreta ese binario como un mensaje en ASCII.
 
 📌 ¿Qué hace el programa?
 Toma como entrada:
