@@ -25,3 +25,5 @@ Convierte el número de:
 - Decimal → Base N.
 - Decimal → Binario.
 - Binario (8 bits por carácter) → ASCII.
+
+Finalmente me encargue de que el codigo estuviera documentado para que se entienda la logica usada en cada linea de codigo.
